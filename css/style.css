@@ -5,7 +5,6 @@
   }
   
   body {
-    height: 300vh;
     width: 100vw;
     padding: 0 50px;
     display: flex;
@@ -14,7 +13,7 @@
   }
   
   #menu {
-    align-self:normal;
+    align-self: normal;
   }
   
   #hero {
@@ -39,10 +38,7 @@
     width: 90%;
     margin: 30px;
   }
-  
-  #works h2 {
-    
-  }
+
   
   .card-pad {
     margin: 16px;
@@ -61,5 +57,10 @@
   
   .about-me {
     margin-top: 100px;
+  }
+
+  #footer {
+    display: flex;
+    justify-content: space-around;
   }
   
