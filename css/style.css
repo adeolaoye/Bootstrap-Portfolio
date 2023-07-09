@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 300vh;
+    width: 100vw;
+    padding: 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #menu {
+    align-self:normal;
+  }
+  
+  #hero {
+    margin-bottom: 30px;
+  }
+  
+  .hero-image {
+    width: 140px;
+    height: 170px;
+  }
+  
+   .container .row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  #works {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: 30px;
+  }
+  
+  #works h2 {
+    
+  }
+  
+  .card-pad {
+    margin: 16px;
+  }
+  
+  .skills {
+    width: 80%;
+    /* padding: 0 100px; */
+    margin: 0 auto;
+  }
+  
+  .skills h2,
+  .skills ol {
+    text-align: center;
+  }
+  
+  .about-me {
+    margin-top: 100px;
+  }
+  
