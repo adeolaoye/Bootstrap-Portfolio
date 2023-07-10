@@ -38,7 +38,6 @@
     width: 90%;
     margin: 30px;
   }
-
   
   .card-pad {
     margin: 16px;
@@ -46,7 +45,6 @@
   
   .skills {
     width: 80%;
-    /* padding: 0 100px; */
     margin: 0 auto;
   }
   
@@ -62,5 +60,9 @@
   #footer {
     display: flex;
     justify-content: space-around;
+  }
+
+  #footer-links:hover {
+    text-decoration: none;
   }
   
